@@ -53,7 +53,7 @@ import (
 
 	"github.com/labstack/gommon/color"
 	"github.com/labstack/gommon/log"
-	"golang.org/x/crypto/acme/autocert"
+	"github.com/golang/crypto/tree/master/acme/autocert"
 )
 
 type (
